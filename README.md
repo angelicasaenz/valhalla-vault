@@ -6,7 +6,7 @@
 </p>
 
 ## 📌 Nota sobre el Proyecto
-**Valhalla Vault** es un concepto de plataforma de banca digital fullstack en desarrollo, concebido exclusivamente con fines educativos y de aprendizaje personal para mi portafolio profesional. El nombre y la identidad visual están inspirados en la **mitología nórdica**, representando la fortaleza, la custodia de activos y la protección inexpugnable de una bóveda financiera.
+**Valhalla Vault** es un proyecto personal de banca digital fullstack en desarrollo, diseñado como un ejercicio de arquitectura e ingeniería de software para mi portafolio profesional. El nombre y la identidad visual están inspirados en la **mitología nórdica**, representando la fortaleza, la custodia de activos y la protección inexpugnable de una bóveda financiera.
 
 > ⚠️ **Nota de evolución:** Este `README.md` es un documento dinámico que se irá actualizando a medida que el proyecto avance y se completen las distintas etapas. Toda la documentación detallada, diagramas de arquitectura y decisiones de diseño se irán almacenando progresivamente en la carpeta `/docs`.
 
@@ -115,4 +115,4 @@ Para mantener un historial de desarrollo limpio y organizado, **cada hito técni
 - **ADR-004 (Event-Driven Architecture & Consistencia Eventual):** Procesamiento de tareas secundarias (auditoría y notificaciones) mediante eventos de integración asíncronos con RabbitMQ.
 
 ---
-*Proyecto de ingeniería de mi portafolio personal enfocado en demostrar capacidades de diseño y desarrollo de software End-to-End.*
+*Valhalla Vault - Creado con el 💚 para mi portafolio de ingeniería con enfoque End-to-End.* 
