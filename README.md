@@ -1,4 +1,4 @@
-# ᚠ VALHALLA VAULT — Digital Banking Platform
+# ᚠ VALHALLA VAULT - Digital Banking Platform
 > **Enterprise Banking Core y Secure Financial Architecture**
 
 
