@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # VALHALLA VAULT - Digital Banking Platform
+=======
+# ᚠ VALHALLA VAULT - Digital Banking Platform
+>>>>>>> 21f84acebf0ef6b63cddf9423d2eed445b380043
 > **Enterprise Banking Core y Secure Financial Architecture**
 
 <p align="center">
@@ -115,4 +119,8 @@ Para mantener un historial de desarrollo limpio y organizado, **cada hito técni
 - **ADR-004 (Event-Driven Architecture & Consistencia Eventual):** Procesamiento de tareas secundarias (auditoría y notificaciones) mediante eventos de integración asíncronos con RabbitMQ.
 
 ---
+<<<<<<< HEAD
 *Proyecto de ingeniería de mi portafolio personal enfocado en demostrar capacidades de diseño y desarrollo de software End-to-End.*
+=======
+*Proyecto educativo de mi portafolio personal enfocado en demostrar capacidades de Ingeniería de Software End-to-End.*
+>>>>>>> 21f84acebf0ef6b63cddf9423d2eed445b380043
